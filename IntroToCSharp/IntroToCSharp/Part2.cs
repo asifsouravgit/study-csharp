@@ -8,7 +8,7 @@ namespace IntroToCSharp
 {
     class Part2
     {
-        static void Main()
+        static void MainOfPart2()
         {
             Console.WriteLine("Please enter your name below.");
             string userName = Console.ReadLine();

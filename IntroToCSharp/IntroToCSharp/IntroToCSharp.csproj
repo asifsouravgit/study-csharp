@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Part1.cs" />
     <Compile Include="Part2.cs" />
+    <Compile Include="Part3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
