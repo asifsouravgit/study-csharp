@@ -1,0 +1,6 @@
+D:\2024\Study CSharp\IntroToCSharp\IntroToCSharp\bin\Debug\IntroToCSharp.exe.config
+D:\2024\Study CSharp\IntroToCSharp\IntroToCSharp\bin\Debug\IntroToCSharp.exe
+D:\2024\Study CSharp\IntroToCSharp\IntroToCSharp\bin\Debug\IntroToCSharp.pdb
+D:\2024\Study CSharp\IntroToCSharp\IntroToCSharp\obj\Debug\IntroToCSharp.csprojResolveAssemblyReference.cache
+D:\2024\Study CSharp\IntroToCSharp\IntroToCSharp\obj\Debug\IntroToCSharp.exe
+D:\2024\Study CSharp\IntroToCSharp\IntroToCSharp\obj\Debug\IntroToCSharp.pdb
